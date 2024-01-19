@@ -24,10 +24,10 @@ This portfolio project aims to analyze diferrent datasets and create meaningful 
 
 ## Analytic Tool Requirements
 
-- Python 3.x
+- Python 3.12
 - Jupyter Notebooks
 - Pandas, NumPy, Scikit-Learn
-- MySQL
+- Microsoft SQL Server Studio
 - Microsoft Power BI
 - Tableau
 - Microsoft Excel
